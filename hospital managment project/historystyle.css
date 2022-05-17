@@ -1,0 +1,32 @@
+.class1{
+    margin-top:50px;
+    margin-left: 450px;
+
+    
+}
+
+.class2{
+    min-width:700px;
+    border: 2px solid aqua;
+
+}
+
+.class2 th{
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 5px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+
+.class2 tbody tr td{
+    padding-left:30px;
+    padding-top:20px;
+    padding-bottom: 10px;
+    font-weight: medium;
+    font-size: 18px;
+}

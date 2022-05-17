@@ -1,0 +1,80 @@
+.class1{
+    margin-left: 100px;
+    margin-top:100px;
+    background-color: aqua;
+    padding-left:50px;
+    padding-right:50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:2px solid black;
+    border-radius: 12px;
+
+}
+
+.class1 thead th{
+    
+    padding-bottom: 20px;
+    
+    font-size: larger;
+    
+}
+
+.class1 tbody tr td{
+   padding-top:10px;
+   padding-bottom:20px;
+   padding-right: 30px;
+   padding-left:40px;
+   font-weight: bold;
+   font-size: 17px;
+
+}
+
+button{
+    margin-left:100px;
+    margin-top:30px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:8px;
+    padding-bottom:8px;
+    border:2px solid black;
+    border-radius: 5px;
+}
+
+button a{
+    text-decoration: none;
+}
+
+button:hover{
+    background-color: rgb(34, 226, 8);
+}
+
+
+.class20{
+    margin-left:100px;
+    margin-top:40px;
+    font-weight: bold;
+
+}
+
+input[type="number"]
+{
+    margin-left:100px;
+    margin-top:20px;
+    padding:5px;
+    border:2px solid black;
+    border-radius: 4px;
+}
+
+input[type="submit"]
+{
+    margin-left:10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border:2px solid black;
+    border-radius: 3px;
+
+}
