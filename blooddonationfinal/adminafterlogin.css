@@ -1,0 +1,230 @@
+body{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+    float:right;
+    width:100%;
+    margin:0px;
+    text-align: center;
+
+    
+}
+
+ul li{
+    float:right;
+    padding-left:50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    
+
+
+}
+
+.class1 ul
+{
+    background-color: rgba(92, 78, 78, 0.897);
+}
+
+ul li:hover{
+    background-color: rgb(37, 228, 37);
+    font-weight: bold;
+    color:white;
+    cursor: pointer;
+
+}
+
+.class2
+{
+    margin:0px;
+    float:left;
+    width:30%;
+    background-image: radial-gradient(rgb(100, 161, 185),rgb(23, 233, 23));
+    height:100%;
+    border:2px solid black;
+    border-radius: 8px;
+    margin-top:30px;
+    margin-left: 50px;
+
+
+}
+
+.class2 p
+{
+    margin:0px;
+    line-height: 35px;
+    padding-left: 35px;
+    padding-top: 150px;
+    padding-right: 50px;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.class3
+{
+    float:right;
+    width:50%;
+    padding-top: 50px;
+    
+    margin:0px;
+
+    
+    
+
+
+}
+
+.class4{
+    margin-right:200px;
+    width:60%;
+
+    margin:0px;
+    padding-top:45px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+input[type="text"],input[type="password"]
+
+{
+    width:90%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    border:2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-left: 70px;
+
+
+}
+
+label{
+    font-weight: bold;
+    padding-bottom: 5px;
+    margin-left: 70px;
+}
+
+.container{
+    border:4px solid rgba(1, 217, 255, 0.966);
+    border-radius:10px;
+    margin-right: 350px;
+    padding-top:30px;
+    padding-bottom: 80px;
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+    background-image: radial-gradient(rgb(255, 255, 255),rgb(56, 241, 217));
+    
+}
+
+input[type="submit"]
+{
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    border:2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-left: 70px;
+
+}
+
+.class5{
+
+    padding-left:75px;
+
+}
+
+.classtable{
+    padding-left:20px;
+
+}
+
+.classtable thead tr th{
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.classtable tbody tr td{
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:10px;
+    padding-bottom:5px;
+    font-style: oblique;
+    text-align: center;
+
+
+}
+
+.classtable tbody tr{
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.container h2{
+    text-align: center;
+    margin:0px;
+    padding-bottom:15px;
+    padding-top: 0px;
+
+
+}
+
+.class3 button{
+    margin-top: 30px;
+    margin-left: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border:2px solid black;
+    border-radius: 4px;
+
+}
+
+#buttonid1{
+    margin-left: 35px;
+
+}
+
+.class3 button a{
+    text-decoration: none;
+
+}
+
+.class3 button:hover{
+    background-color: rgba(241, 122, 11, 0.932);
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+.class3 button a:hover{
+    font-weight: bold;
+    color:white;
+
+}
+
+#buttonid2:hover{
+    background-color: rgb(45, 236, 19);
+    cursor:pointer;
+    font-weight: bold;
+    color:black;
+    
+}

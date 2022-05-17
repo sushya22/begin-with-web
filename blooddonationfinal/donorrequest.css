@@ -1,0 +1,175 @@
+body{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+    float:right;
+    width:100%;
+    margin:0px;
+    text-align: center;
+
+    
+}
+
+ul li{
+    float:right;
+    padding-left:50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    
+
+
+}
+
+.class1 ul
+{
+    background-color: rgba(92, 78, 78, 0.897);
+}
+
+ul li:hover{
+    background-color: rgb(37, 228, 37);
+    font-weight: bold;
+    color:white;
+    cursor: pointer;
+
+}
+
+.class2
+{
+    margin:0px;
+    float:left;
+    width:30%;
+    background-image: radial-gradient(rgb(100, 161, 185),rgb(23, 233, 23));
+    height:100%;
+    border:2px solid black;
+    border-radius: 8px;
+    margin-top:30px;
+    margin-left: 20px;
+
+
+}
+
+.class2 p
+{
+    margin:0px;
+    line-height: 35px;
+    padding-left: 35px;
+    padding-top: 150px;
+    padding-right: 50px;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.class3
+{
+    float:right;
+    width:68%;
+    padding-top: 50px;
+    
+    margin:0px;
+
+    
+    
+
+
+}
+
+
+.container{
+    width:750px;
+   
+    margin:0px;
+    border:4px solid rgba(1, 217, 255, 0.966);
+    border-radius:10px;
+    padding-right: 50px;
+    padding-top:30px;
+    padding-bottom: 80px;
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+    background-image: radial-gradient(rgb(255, 255, 255),rgb(56, 241, 217));
+    margin-left:50px;
+
+    
+}
+
+input[type="submit"]
+{
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-left: 70px;
+    padding:0px;
+    margin:0px;
+
+}
+
+
+.classtable{
+    padding-left:20px;
+
+}
+
+.classtable thead tr th{
+    
+    padding-top:5px;
+    padding-bottom:5px;
+    
+    font-size: 18px;
+    font-weight: bold;
+    padding-left:25px;
+    padding-right:25px;
+
+}
+
+
+
+.classtable tbody tr{
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.container h2{
+    text-align: center;
+    margin:0px;
+    padding-bottom:15px;
+    padding-top: 0px;
+
+
+}
+
+.classtable tbody tr td{
+    padding:0px;
+    margin:0px;
+
+}
+
+#buttonid2{
+    margin-left:50px;
+
+}
+
+#id100{
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+
+}
+
+#id200{
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
